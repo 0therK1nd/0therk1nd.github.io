@@ -18,3 +18,8 @@
 
 - 그룹 또는 캐릭터에 `releaseStatus: 'private'`를 지정하면 음원 배포 목록에서 제외되고 상세 페이지에서도 다운로드가 숨겨집니다. 하프 보이스에 적용되어 있습니다.
 - `releaseStatus: 'development'`는 제작 중 표시용입니다. 다운로드 링크가 등록되면 배포 중으로 표시됩니다.
+
+## v0.3
+- 기존 사이트 업데이트: index.html, data.js, script.js, style.css, README.md를 저장소 최상위에 덮어쓰고 Commit changes. 기존 assets/logo.png는 그대로 사용 가능합니다.
+- 캐릭터별 profile, voice, credits, artCredits 항목을 수정할 수 있습니다. 빈 값은 화면에 표시하지 않습니다. 실제 다운로드는 banks에 등록하세요.
+- 하프 보이스는 도감에서만 열람 가능합니다.
