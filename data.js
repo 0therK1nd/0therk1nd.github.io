@@ -473,7 +473,15 @@ const DATA = {
       "icon": "assets/icons/cyabel.png"
     }
   },
-  "comics": [],
+  "comics": [
+  {
+    "title": "OK_DocOri 01. 자기소개…?",
+    "date": "",
+    "images": [
+      "assets/comics/ok-docori-01.png"
+    ]
+  }
+],
   "news": [
     {
       "date": "",
